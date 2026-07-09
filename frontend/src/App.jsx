@@ -12,6 +12,7 @@ import ProductDetails from './pages/ProductDetails';
 import ProductForm from './pages/ProductForm';
 import Services from './pages/Services';
 import ServiceForm from './pages/ServiceForm';
+import ServiceDetails from './pages/ServiceDetails';
 import Cart from './pages/Cart';
 import Chat from './pages/Chat';
 import AdminRoute from './components/AdminRoute';
